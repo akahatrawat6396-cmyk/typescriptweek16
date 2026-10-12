@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akahatrawat6396-cmyk/typescriptweek16.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akahatrawat6396-cmyk/typescriptweek16/issues"
+  },
+  "homepage": "https://github.com/akahatrawat6396-cmyk/typescriptweek16#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
